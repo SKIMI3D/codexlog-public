@@ -1,14 +1,14 @@
-# CodexLog
+# codexlog
 
-CodexLog ist ein digitales Life-Journal für Disziplin, Klarheit und Transformation.  
+codexlog ist ein digitales Life-Journal für Disziplin, Klarheit und Transformation.  
 Fitness. Ernährung. Gedanken. Struktur – alles an einem Ort.
 
 ---
 
-## 🇩🇪 Warum CodexLog?
+## 🇩🇪 Warum codexlog?
 
 Die meisten Tracking-Apps sind laut, verspielt oder überladen.  
-CodexLog geht den anderen Weg:  
+codexlog geht den anderen Weg:  
 Minimalistisch. Konsequent. Radikal ruhig.
 
 Ein Ort, an dem Du täglich Deine Regeln, Daten und Fortschritte festhältst.  
@@ -57,17 +57,17 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 
 ---
 
-## CodexLog
+## codexlog
 
-CodexLog is a digital life journal for discipline, clarity and transformation.  
+codexlog is a digital life journal for discipline, clarity and transformation.  
 Fitness. Nutrition. Reflection. Structure – in one place.
 
 ---
 
-## 🇬🇧 Why CodexLog?
+## 🇬🇧 Why codexlog?
 
 Most tracking apps are noisy, bloated or gamified.  
-CodexLog takes the opposite route:  
+codexlog takes the opposite route:  
 Minimal. Consistent. Radically calm.
 
 A space to track your rules, data and progress – every single day.  
