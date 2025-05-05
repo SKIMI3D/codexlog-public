@@ -1,6 +1,6 @@
 # codexlog – Brand & Style Guide
 
-> **Version 1.0** · gültig ab: *heutiges Datum*
+> **Version 1.0** · gültig ab: 01.5.2025
 > Dieses Dokument vereint das frühere **BRAND\_GUIDELINES.md** und **styleguide.md** in einem einzigen, verbindlichen Leitfaden.
 >
 > **Ziel:** Einheitliche, minimalistische und disziplinierte Marken‑ und UI‑Sprache für alle codexlog‑Touchpoints: Code‑Repos, Web‑App, Docs, Marketing.

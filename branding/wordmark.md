@@ -1,4 +1,4 @@
-# 🏷 Offizielle Wortmarke: codexlog
+# Offizielle Wortmarke: codexlog
 
 ## Schreibweise
 
@@ -39,7 +39,7 @@ Die bewusste Kleinschreibung unterstreicht:
 
 ---
 
-# 🏷 Official Wordmark: codexlog
+# Official Wordmark: codexlog
 
 ## Spelling
 
